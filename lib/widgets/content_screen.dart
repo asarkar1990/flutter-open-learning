@@ -23,7 +23,9 @@ class ContentScreen extends StatelessWidget {
       body: GetBuilder<ContentBloc>(
         initState: (_) =>
             _contentBloc.setState((s) => s.getContents(subject, category)),
-        builder: (bloc) => buildContent(bloc.contents),
+        builder: (bloc) => bloc.processing
+            ? Center(child: CircularProgressIndicator())
+            : buildContent(bloc.contents),
       ));
 
   buildContent(List<Content> contents) => Container(
