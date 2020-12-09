@@ -5,7 +5,7 @@ An opensource flutter application for e-learning.
 ## Features
 - Pdf Content
 - Video Content
-- Inbuild cache validate/invalidate mechanism
+- Inbuilt cache validate/invalidate mechanism
 
 
 
