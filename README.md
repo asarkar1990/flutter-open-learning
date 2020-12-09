@@ -1,4 +1,4 @@
-# Open Learn : Flutter E-Learning App
+# Open Learning : Flutter E-Learning App
 
 An opensource flutter application for e-learning.
 
