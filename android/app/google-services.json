@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "371532526779",
+    "firebase_url": "https://ncert-2019.firebaseio.com",
+    "project_id": "ncert-2019",
+    "storage_bucket": "ncert-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371532526779:android:2deb314e5cf60c2eb9a59e",
+        "android_client_info": {
+          "package_name": "com.auradix.ncert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371532526779-7tsq363capekt6gv92cskev2154bskq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auradix.ncert",
+            "certificate_hash": "e5a129d2f0cc8c06b4f00df850104be7f9f10a46"
+          }
+        },
+        {
+          "client_id": "371532526779-3m0soa84n6upn352pns87o4270086a35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auradix.ncert",
+            "certificate_hash": "630db9e4247ca89437ba7d516a76636e0cafcf01"
+          }
+        },
+        {
+          "client_id": "371532526779-c7e874ft6fkjbn8ubi91puhonejsbki1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auradix.ncert",
+            "certificate_hash": "5d244223acafc441081f0ea579ea78e02e875cad"
+          }
+        },
+        {
+          "client_id": "371532526779-f5onb4on6rbbob45mdjr47io2srui460.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3MPTaLJZH2SXkoTqTd4oi8XjJ7f0I9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371532526779-f5onb4on6rbbob45mdjr47io2srui460.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371532526779:android:d4cd4e8f1abd6ab1b9a59e",
+        "android_client_info": {
+          "package_name": "com.thestudypath.ncert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371532526779-k5g4ujmquef9jp296qtsugelbevcpe3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thestudypath.ncert",
+            "certificate_hash": "5d244223acafc441081f0ea579ea78e02e875cad"
+          }
+        },
+        {
+          "client_id": "371532526779-f5onb4on6rbbob45mdjr47io2srui460.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3MPTaLJZH2SXkoTqTd4oi8XjJ7f0I9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371532526779-f5onb4on6rbbob45mdjr47io2srui460.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
